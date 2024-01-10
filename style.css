@@ -264,7 +264,7 @@ body{
         }
 
 
-        @media screen and (max-width: 480px){
+        @media screen and (max-width: 600px){
 
             /*Menu*/
 
@@ -307,7 +307,7 @@ body{
             }
 
             .checkbox-itens label{
-                font-size: 18px;                
+                font-size: 17px;                
             }
 
 
